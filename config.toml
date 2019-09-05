@@ -1,0 +1,6 @@
+baseURL = "https://tyayers.github.io/api-team-principles/"
+languageCode = "en-us"
+title = "7 API Team Principles"
+theme = "air"
+publishDir = "docs"
+logo = "images/network.png"

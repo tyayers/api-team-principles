@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 7 API Team Principles</title>
+    <link>https://tyayers.github.io/api-team-principles/post/</link>
+    <description>Recent content in Posts on 7 API Team Principles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tyayers.github.io/api-team-principles/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7 API Team Principles</title>
+      <link>https://tyayers.github.io/api-team-principles/post/test/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyayers.github.io/api-team-principles/post/test/</guid>
+      <description>The world is digitally connected, but how can we change and adapt to this new API reality, built on openness, integration, and ecosystems?
+We as an organization commit ourselves to these 7 API First Principles:
+1. Scale APIs are the central nervous system of our organization, both internally and to our customers and partners. Every cent we earn flows through our APIs.
+2. Self-Service Every service in our organization, either internal or external, is consumed through documented, versioned, and managed APIs with common identity, security and operations policies, and with automatic self-service onboarding.</description>
+    </item>
+    
+  </channel>
+</rss>
